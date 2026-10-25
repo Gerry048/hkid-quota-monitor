@@ -1,0 +1,6 @@
+bark.key
+ntfy.topic
+.env
+*.key
+__pycache__/
+.DS_Store
