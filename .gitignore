@@ -1,6 +1,16 @@
+# Push credentials. Never commit these.
 bark.key
 ntfy.topic
 .env
 *.key
+
 __pycache__/
+*.pyc
 .DS_Store
+
+# Local scripts and notes. Some contain device keys.
+1.txt
+bark_test.py
+friend.py
+momo_notify.py
+使用说明.md
